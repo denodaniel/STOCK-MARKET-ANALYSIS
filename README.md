@@ -1,5 +1,5 @@
 # STOCK-MARKET-ANALYSIS
-he objective of this project is to predict future stock prices based on historical data. The model utilizes past stock prices to predict the next day's closing price. The stock data is scaled, and a deep learning model using LSTM layers is trained on this data.
+The objective of this project is to predict future stock prices based on historical data. The model utilizes past stock prices to predict the next day's closing price. The stock data is scaled, and a deep learning model using LSTM layers is trained on this data.
 
 Getting Started
 Prerequisites
